@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://media.tenor.com/oqXocliEYAMAAAAi/hello-yellow.gif" alt="Hii" width="110" height="100" />, I'm MrSolver</h1>
 <h3 align="center">
-<p><i>Science Student | 17 |</i><img src="giphy.gif" alt="Hii" width="50" height="50" /></p><br/>
+<p><i>Science Student | 17 |</i><img src="giphy.gif" alt="Hii" width="50" height="47" /></p><br/>
 I am dedicated to staying up to date with the latest trends and best practices in Artificial Intelligence, motivated by a desire for continuous learning and growth. My ultimate goal is to be an invaluable member of any team, collaboratively working with my peers to deliver cutting-edge solutions that push the boundaries of what is possible in this exciting field :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrs0lver&label=Profile%20views&color=0e75b6&style=flat" alt="mrs0lver" /> </p>
