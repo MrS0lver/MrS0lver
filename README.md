@@ -11,13 +11,11 @@ I am dedicated to staying up to date with the latest trends and best practices i
 
 - 🔭 I’m currently working on [Voice-Notepad](https://github.com/MrS0lver/Voice-Notepad)
 
-- 🌱 I’m currently learning **JavaScript, Skit learn**
+- 🌱 I’m currently learning **Pygame, Skit learn**
 
-- 👯 I’m looking to collaborate on [Voice-Notepad](https://github.com/MrS0lver/Voice-Notepad/blob/main/Voice-Notepad.pyw)
+- 👯 I’m looking to collaborate on [Smart-Notepad](https://github.com/MrS0lver/S_NOTEPAD)
 
-- 🤝 I’m looking for help with [Asistant](https://github.com/MrS0lver/Asistant)
-
-- 💬 Ask me about **Python, C++, Javascript**
+- 💬 Ask me about **Python, C++**
 
 - 📫 How to reach me **bidintha2006@gmail.com**
 
