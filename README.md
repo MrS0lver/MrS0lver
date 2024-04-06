@@ -23,10 +23,15 @@ I am dedicated to staying up to date with the latest trends and best practices i
 
 <p align="left">
   <a href="https://twitter.com/mrs0lver" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrs0lver" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Non-breaking spaces for extra space -->
   <a href="https://discord.gg/BhU7qVX67Y" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Join our Discord server" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Non-breaking spaces for extra space -->
+  <a href="https://www.youtube.com/channel/UCCjQmgz_crfsdYF2pqdTUew" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
 
