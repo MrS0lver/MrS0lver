@@ -9,7 +9,7 @@ I am dedicated to staying up to date with the latest trends and best practices i
 
 <p align="left"> <a href="https://twitter.com/mrs0lver" target="blank"><img src="https://img.shields.io/twitter/follow/mrs0lver?logo=twitter&style=for-the-badge" alt="mrs0lver" /></a> </p>
 
-- 🔭 I’m currently working on [Voice-Notepad](https://github.com/MrS0lver/Voice-Notepad)
+- 🔭 I’m currently working on [Smart-Notepad](https://github.com/MrS0lver/S_NOTEPAD)
 
 - 🌱 I’m currently learning **Pygame, Skit learn**
 
