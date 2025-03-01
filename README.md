@@ -11,7 +11,7 @@ I am dedicated to staying up to date with the latest trends and best practices i
 
 - 🔭 I’m currently working on [ChipChap](https://github.com/MrS0lver/ChipChap)
 
-- 🌱 I’m currently learning **Pygame, Skit learn**
+- 🌱 I’m currently learning **Gadot, Malware Dev**
 
 - 👯 I’m looking to collaborate on [ChipChap](https://github.com/MrS0lver/ChipChap)
 
